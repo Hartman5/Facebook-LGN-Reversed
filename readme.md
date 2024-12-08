@@ -40,3 +40,7 @@ This one was the least complex, took no JS reversal at all. It makes a request t
 ![image](https://github.com/Hartman5/Facebook-LGN-Reversed/blob/main/media/Screenshot%202024-12-08%20at%203.15.12%E2%80%AFPM.png?raw=true)
 
 ^^ Facebook's homepage HTML response, with the `lgnrnd` parameter highlighted.
+
+### Summary
+
+All in all, this took me about ten minutes to reverse. All algorithms were simple, and could be reversed by anyone with a basic understanding of JS and devtools. __Facebook has poor security.__
