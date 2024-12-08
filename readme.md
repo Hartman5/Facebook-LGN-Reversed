@@ -2,11 +2,11 @@
 
 All Facebook parameters based around LGN, such as lgnjs, lgndim, lgnrnd, etc. published here. This was stupid easy, hardly security, took me longer to write thi readme than to reverse it.
 
-(Telegram)[https://t.me/reversewasm]
+[Telegram](https://t.me/reversewasm)
 
 ## Want to Learn Reverse Engineering?
 
-I've created a coursec alongside (@xTekky)[https://github.com/xtekky]! [Reverser's Academy](https://whop.com/reverser-academy), join us and learn the ins and outs of `reverse engineering`. We offer a zero to hero education style, teaching you the basics, all the way up to WASM, JS reversal, Android reversal, etc. Even reversing **Hcaptcha** and **FunCaptcha**!
+I've created a coursec alongside [@xTekky](https://github.com/xtekky)! [Reverser's Academy](https://whop.com/reverser-academy), join us and learn the ins and outs of `reverse engineering`. We offer a zero to hero education style, teaching you the basics, all the way up to WASM, JS reversal, Android reversal, etc. Even reversing **Hcaptcha** and **FunCaptcha**!
 
 ### LGNJS
 
